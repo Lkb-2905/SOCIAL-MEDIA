@@ -1,0 +1,15 @@
+node_modules/
+web/dist/
+server/dist/
+release/
+.env
+server/data/data.json
+*.log
+node_modules/
+dist/
+build/
+web/dist/
+server/dist/
+.env
+.DS_Store
+*.log
