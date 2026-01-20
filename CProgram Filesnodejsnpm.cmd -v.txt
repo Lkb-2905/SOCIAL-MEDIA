@@ -1,6 +1,0 @@
-"C:\Program Files\nodejs\npm.cmd" -v
-"C:\Program Files\nodejs\npm.cmd" run dev
-
-Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
-
-& "C:\Program Files\nodejs\npm.cmd" run dev
